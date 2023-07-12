@@ -13,7 +13,7 @@ Projeto promovido pela Rocketseat  <br/>
 </p>
 <br>
 <p align="center">
-  <img alt="projeto DevLinks" src=".inserir a miagem da tela principal.jpg" width="100%">
+  <img alt="projeto DevLinks" src="https://github.com/Franksilva959/projeto/blob/main/telaprincipal.png" width="100%">
 </p>
 ## 🚀Tecnologias
 Desenvolvido com as seguintes tecnologias:
